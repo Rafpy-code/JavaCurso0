@@ -1,0 +1,2 @@
+Frase del fichero leida: La vida es bella.
+tiene 6 vocales.
